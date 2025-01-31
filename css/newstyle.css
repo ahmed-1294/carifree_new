@@ -1,0 +1,19 @@
+.answer{
+    max-height: 0px;
+    overflow: hidden;
+    
+}
+
+.faqtor.active .answer{
+   
+    max-height: 300px;
+}
+
+/* .faqtor.active .answer i{
+
+    transform: rotate(90deg);
+} */
+
+#stories .stories .storybox.hidden{
+    display: none;
+}
